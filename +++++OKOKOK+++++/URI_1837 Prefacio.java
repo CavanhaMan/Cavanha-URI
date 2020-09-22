@@ -2,7 +2,7 @@
 +--------------------+
 | Rodrigo CavanhaMan |
 |        IFTM        |
-|      URI 1253      |
+|      URI 1837      |
 +--------------------+
 */
 import java.util.Locale;
@@ -15,20 +15,28 @@ public class Main {
 		sc.useLocale(Locale.ENGLISH);
 		Locale.setDefault(new Locale("en", "US"));
 		
-		int N = sc.nextInt();
-		for (int i=0 ; i<N ; i++){
-			sc.nextLine();
-			String str = sc.nextLine();
-			int troca=sc.nextInt();
-			char[] s = str.toCharArray();
-			for (int x=0 ; x<s.length ; x++){
-				if((s[x]-troca) < 65)
-					s[x]+=(26-troca);
-				else
-					s[x]-=troca;
+		int a, b, x, y=0, q, r;
+		a = sc.nextInt();
+		b = sc.nextInt();
+		
+		if(a<0){
+			x=b;
+			if(b<0) x=b*-1;
+			for(r=0; r<x; r++){
+				y=a-r;
+				if(y%b==0) break;
 			}
-			System.out.println(s);
+			q=y/b;
 		}
+		else{
+			q=a/b;
+			r=a%b;
+		}
+		//q = (a/b);
+		//r = a-(q*b);
+		
+		System.out.printf("%d %d\n",q,r);
+		
 		sc.close();
 	}
 }
