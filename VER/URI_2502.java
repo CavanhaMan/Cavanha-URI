@@ -24,21 +24,33 @@ public class Main {
 			int N = sc.nextInt(); //quantidade de frases
 			for (int x=0 ; x<N ; x++) {
 				System.out.println("cifra1:");
-				String encripta = sc.next();
+				String encripta = sc.nextLine();
 				char[] eAux = encripta.toCharArray();
+				System.out.println(eAux);//****************** CIFRA 1
 				System.out.println("cifra2:");
-				String decripta = sc.next();
+				String decripta = sc.nextLine();
 				char[] dAux = decripta.toCharArray();
+				System.out.println(dAux);//****************** CIFRA 2
 				System.out.println("frase:");
-				String entrada = sc.next();
+				String entrada = sc.nextLine();
 				char[] entradaAux = entrada.toCharArray();
+				System.out.println(entradaAux);//************ FRASE
 				char[] saida = new char[entradaAux.length];
+
+				int tamFrase = entrada.length();
+				
+				for (int i=0 ; i<tamFrase ; i++) {
+					if(entradaAux[i]=='a')
+						entradaAux[i]='X';
+				}
+				/*
+				
 				for (int i=0 ; i<entrada.length() ; i++) 
 					for (int y=0 ; y<eAux.length ; y++) { 
 						saida[i]=entradaAux[i];
 						if(entradaAux[i]==eAux[y])
 							saida[i]=dAux[y];
-					}
+					}*/
 				System.out.println(String.copyValueOf(saida));
 			}
 		//}
@@ -47,6 +59,8 @@ public class Main {
 	}
 }
 /*
+variavelString.toLowerCase();
+variavelString.toUpperCase();
 
 3 1
 UMA
