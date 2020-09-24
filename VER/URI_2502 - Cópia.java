@@ -42,8 +42,6 @@ public class Main {
 				for (int y=0 ; y<C ; y++) {
 					if(entradaAux[i]==dAux[y]) {
 						saida[i]=eAux[y];
-						System.out.println(entradaAux[i]);
-						System.out.println(dAux[y]);
 					}
 				}
 			}
