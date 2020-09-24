@@ -1,3 +1,4 @@
+package projeto01;
 /*---------------------------------*
 | Rodrigo CavanhaMan               |
 | URI 2502                         |
@@ -13,23 +14,23 @@ public class Main {
 		sc.useLocale(Locale.ENGLISH);
 		Locale.setDefault(new Locale("en", "US"));
 		
-	//	while(sc.hasNext()) {
-			System.out.println("C e N:");
+		while(sc.hasNext()) {
+			//System.out.println("C e N:");
 			String[] inicia = sc.nextLine().split(" ");
 			int C = Integer.parseInt(inicia[0]);
 			int N = Integer.parseInt(inicia[1]);
 			
-			System.out.println("cifra1:");
+			//System.out.println("cifra1:");
 			String encripta = sc.nextLine();
 			char[] eAux = encripta.toLowerCase().toCharArray();
 			
-			System.out.println("cifra2:");
+			//System.out.println("cifra2:");
 			String decripta = sc.nextLine();
 			char[] dAux = decripta.toLowerCase().toCharArray();
 			
 			for(int x=0 ; x<N ; x++) {
 			
-				System.out.println("frase:");
+				//System.out.println("frase:");
 				String entrada = sc.nextLine();
 				char[] entradaAux = entrada.toCharArray();
 				
@@ -55,7 +56,8 @@ public class Main {
 				}
 				System.out.println(String.copyValueOf(saida));
 			}
-		//}
+			System.out.println();
+		}
 		sc.close();
 	}
 }
