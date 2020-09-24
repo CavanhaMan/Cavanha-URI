@@ -1,3 +1,4 @@
+package projeto01;
 /*---------------------------------*
 | Rodrigo CavanhaMan               |
 | URI 2502                         |
@@ -19,16 +20,18 @@ public class Main {
 		int N = sc.nextInt(); //quantidade de frases
 		sc.nextLine();//entrada em branco para evitar pular a linha com o terminador de linha no proximo nexLine
 		
-			System.out.println("cifra1:");
-			String encripta = sc.nextLine();
-			char[] eAux = encripta.toLowerCase().toCharArray();
-			//System.out.println(eAux);//****************** CIFRA 1
-			
-			System.out.println("cifra2:");
-			String decripta = sc.nextLine();
-			char[] dAux = decripta.toLowerCase().toCharArray();
-			//System.out.println(dAux);//****************** CIFRA 2
-			
+		System.out.println("cifra1:");
+		String encripta = sc.nextLine();
+		char[] eAux = encripta.toLowerCase().toCharArray();
+		//System.out.println(eAux);//****************** CIFRA 1
+		
+		System.out.println("cifra2:");
+		String decripta = sc.nextLine();
+		char[] dAux = decripta.toLowerCase().toCharArray();
+		//System.out.println(dAux);//****************** CIFRA 2
+		
+		for(int x=0 ; x<N ; x++) {
+		
 			System.out.println("frase:");
 			String entrada = sc.nextLine();
 			char[] entradaAux = entrada.toCharArray();
@@ -41,24 +44,23 @@ public class Main {
 			
 			for (int i=0 ; i<tamFrase ; i++) {
 				for (int y=0 ; y<C ; y++) {
-					// create 2 boolean primitives b1, b2
-				    boolean b1;
-				    // check if ch1, ch2 are uppercase and assign results to b1, b2
-				    if(Character.isUpperCase(entradaAux[i]))
+				    if(Character.isUpperCase(entradaAux[i])) {
+						if(entradaAux[i]==Character.toUpperCase(eAux[y])) 
+							saida[i]=Character.toUpperCase(dAux[y]);
+						else if(entradaAux[i]==Character.toUpperCase(dAux[y])) 
+							saida[i]=Character.toUpperCase(eAux[y]);
+				    }
+				    else { 
 						if(entradaAux[i]==eAux[y]) 
 							saida[i]=dAux[y];
 						else if(entradaAux[i]==dAux[y]) 
 							saida[i]=eAux[y];
-				    	
-				    System.out.println(b1);
-				      
-					if(entradaAux[i]==eAux[y]) 
-						saida[i]=dAux[y];
-					else if(entradaAux[i]==dAux[y]) 
-						saida[i]=eAux[y];
+				    }
 				}
 			}
+
 			System.out.println(String.copyValueOf(saida));
+		}
 		
 		sc.close();
 	}
