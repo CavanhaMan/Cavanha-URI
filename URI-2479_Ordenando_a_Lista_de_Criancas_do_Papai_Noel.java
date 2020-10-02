@@ -2,9 +2,7 @@
 | Rodrigo CavanhaMan                          |
 | URI 2479                                    |
 | Ordenando a Lista de Crianças do Papai Noel |
-*---------------------------------------------*
-
-*/
+*---------------------------------------------*/
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
