@@ -2,7 +2,7 @@
 +-------------------+
 |Rodrigo CavanhaMan |
 |URI 2774           |
-|Precisão do Sensor |
+|Precisao do Sensor |
 +-------------------+
 */
 import java.util.Locale;
