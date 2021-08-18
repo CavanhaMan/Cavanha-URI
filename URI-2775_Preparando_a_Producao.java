@@ -16,7 +16,7 @@ public class Main {
 			//quantidade de pacotes
 			int N = Integer.parseInt(sc.nextLine());
 			
-			//números dos pacotes, na ordem da entrega
+			//numeros dos pacotes, na ordem da entrega
 			String entrada1 = sc.nextLine();
 			String[] entr1 = entrada1.split(" ");
 			int[] numPac = new int[N];
@@ -24,7 +24,7 @@ public class Main {
 				numPac[i] = Integer.parseInt(entr1[i]);
 	
 			
-			//tempo, em segundos, que o n-ésimo pacote leva para ser trocado de lugar
+			//tempo, em segundos, que o n-esimo pacote leva para ser trocado de lugar
 			String entrada2 = sc.nextLine();
 			String[] entr2 = entrada2.split(" ");
 			int[] tempo = new int[N];
@@ -37,7 +37,7 @@ public class Main {
 			int auxs=0;
 			
 			boolean fim=true;
-			//só troca dois a dois e se estiverem um do lado do outro
+			//so troca dois a dois e se estiverem um do lado do outro
 			while(fim) {
 				int aux=custo;
 				for (int i=0 ; i<N-1 ; i++) {
