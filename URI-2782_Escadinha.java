@@ -6,6 +6,7 @@
 +------------------+
 */
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
@@ -24,6 +25,8 @@ public class Main {
 		
 		int escadinha = 0;
 		List<Integer> escada = new ArrayList<Integer>();
+		List<Integer> numAux = new ArrayList<Integer>();
+		numAux = num;
 
 		//for (Integer x: num)
 		//	System.out.println(x);
@@ -31,18 +34,18 @@ public class Main {
 		//	System.out.println(num.get(i));
 
 		//procura repetidos
-		for (int i=0 ; i<N ; i++){
-			for (int j=0 ; j<N ; j++){
-				if (num.get(i)==num.get(j)){
-					escada.add(num.get(i));
+		for (int i=0 ; i<numAux.size() ; i++){
+			for (int j=0 ; j<numAux.size() ; j++){
+				if (numAux.get(i)==numAux.get(j)){
+					escada.add(numAux.get(i));
 				}
 			}
 			if(escada.size()>1){
 				escadinha++;
-				lista.remove([]);
+				numAux.removeAll(Arrays.asList(numAux.get(i)));//remove TODOS item "50" da lista
+				System.out.println("escada: "+escada);
+				System.out.println("escadinha: "+escadinha);
 			}
-			System.out.println(escada);
-			System.out.println(escadinha);
 			escada.clear();
 		}
 		//procura sequencia com intervalos

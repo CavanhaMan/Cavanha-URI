@@ -1,6 +1,13 @@
+/*
++------------------+
+|Rodrigo CavanhaMan|
+|Estudos com Listas|
++------------------+
+*/
 import java.util.List;
 import java.util.Map;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.LinkedHashSet;
 import java.util.Set;
 import java.util.Collections;
@@ -11,8 +18,8 @@ public class EstruturaDeDados {
 
 	public static void main(String[] args) {
 		//trabalhandoComSet();
-		//trabalhandoComList();
-		trabalhandoComMap();
+		trabalhandoComList();
+		//trabalhandoComMap();
 		//testeOrdenacaoLista();
 		//testeOrdenacaoListaString();
 	}
@@ -113,9 +120,15 @@ public class EstruturaDeDados {
 		lista.add(1);
 		lista.add(1000);
 		lista.add(200);
+		lista.add(50);
+		lista.add(50);
+		lista.add(50);
+		lista.add(50);
+		lista.add(50);
 		lista.add(200); //aceita repeticao!
 		lista.add(200);
 		lista.add(200);
+		lista.add(50);
 		lista.add(50);
 
 		System.out.println(lista.size());
@@ -136,12 +149,16 @@ public class EstruturaDeDados {
 		lista.remove(new Integer (200));  //remove o item "200" da lista
 		
 		Integer itemaremover = 50;
-		lista.remove(itemaremover);	//remove o item "50" da lista
-
-		System.out.println("__________________________");
+		lista.remove(itemaremover);	//remove o 1o item "50" da lista
+		System.out.println("remove o item \"50\" da lista:");
 		System.out.println(lista);
 		System.out.println("__________________________\n");
 		
+		lista.removeAll(Arrays.asList(itemaremover));//remove TODOS item "50" da lista
+		System.out.println("remove TODOS item \"50\" da lista:");
+		System.out.println(lista);
+		System.out.println("__________________________\n");
+
 		Set<Integer> conjunto = new LinkedHashSet<Integer>();
 		conjunto.add(2);
 		conjunto.add(3);		//criei um conjunto e add 2 valores
