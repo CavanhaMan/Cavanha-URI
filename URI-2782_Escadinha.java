@@ -33,10 +33,10 @@ public class Main {
 		//for (int i=0 ; i<num.size() ; i++)
 		//	System.out.println(num.get(i));
 
-		//procura repetidos
+		//---procura repetidos--------------------------
 		for (int i=0 ; i<numAux.size() ; i++){
 			for (int j=0 ; j<numAux.size() ; j++){
-				if (numAux.get(i)==numAux.get(j)){
+				if (numAux.get(i).equals(numAux.get(j))){
 					escada.add(numAux.get(i));
 				}
 			}
@@ -48,7 +48,11 @@ public class Main {
 			}
 			escada.clear();
 		}
-		//procura sequencia com intervalos
+		
+		//---procura sequencia com intervalos---------------
+		
+		
+		
 		//int intervalo = Math.abs(num[0]-num[1]);
 		//System.out.println(intervalo);
 		
@@ -60,4 +64,17 @@ IDENTIFICAR:
 - NUMEROS REPETIDOS
 - SEQUENCIAS COM INTERVALOS IGUAIS
 - PAR DE NÚMEROS QUE SOBRAREM
+
+URI-2782_Escadinha
+
+12
+458 458 1 3 1 -128 -128 8 12 457 457 1
+
+1
+112
+
+7
+11 11 -106 -223 -340 -457 -457
+
+
 */
