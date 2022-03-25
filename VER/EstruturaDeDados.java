@@ -43,7 +43,8 @@ public class EstruturaDeDados {
 		System.out.println(lista.size());
 		System.out.println(lista);
 		System.out.println("__________________________");
-		
+
+
 		lista.removeAll(lista); //remove todos os elementos da lista
 		lista.clear(); 			//remove todos os elementos da lista
 	}
@@ -137,7 +138,7 @@ public class EstruturaDeDados {
 		System.out.println(lista);
 		
 		Collections.sort(lista);	// ordena a lista
-		System.out.println(lista.get(2)); //o valor na posicao 2 foi alterado devido à ordenacao
+		System.out.println(lista.get(2)); //o valor na posicao 2 foi alterado devido a ordenacao
 		System.out.println(lista);
 		
 		Collections.reverse(lista); //inverte a lista
@@ -150,6 +151,7 @@ public class EstruturaDeDados {
 		
 		Integer itemaremover = 50;
 		lista.remove(itemaremover);	//remove o 1o item "50" da lista
+
 		System.out.println("remove o item \"50\" da lista:");
 		System.out.println(lista);
 		System.out.println("__________________________\n");
@@ -211,7 +213,7 @@ public class EstruturaDeDados {
 		if (!conjunto.contains(777))
 			System.out.println("nao tem 777");
 		
-		//se existe o valor "1" pra remover no grupo e conseguir remover (o retorno e booleano)
+		//se existe o valor "1" pra remover no grupo e conseguir remover (o retorno eh booleano)
 		if (conjunto.remove(1))
 			System.out.println("removi o 1");	//entao imprime o resultado
 		
