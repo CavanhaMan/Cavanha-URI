@@ -2,14 +2,13 @@
 --- Copyright URI Online Judge
 --- www.urionlinejudge.com.br
 --- Problem 2613
-create database beecrowd;
-#drop database beecrowd;
-use beecrowd;
+
 CREATE TABLE prices (
   id numeric PRIMARY KEY,
   categorie varchar(50),
   value numeric
 );
+
 
 CREATE TABLE movies (
   id numeric PRIMARY KEY,
