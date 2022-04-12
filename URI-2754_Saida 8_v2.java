@@ -1,7 +1,7 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
 | URI 2754           |
-| Saída 8            |
+| Saida 8            |
 *--------------------*/
 import java.util.Locale;
 import java.util.Scanner;
