@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1018           |
+| BEE 1018           |
 | Cedulas            |
 *--------------------*/
 #include<stdio.h>

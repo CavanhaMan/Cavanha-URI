@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1059           |
+| BEE 1059           |
 | Numeros Pares      |
 *--------------------*/
 #include<stdio.h>

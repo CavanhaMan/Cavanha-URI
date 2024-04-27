@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1000           |
+| BEE 1000           |
 | Hello World!       |
 *--------------------*/
 #include<stdio.h>

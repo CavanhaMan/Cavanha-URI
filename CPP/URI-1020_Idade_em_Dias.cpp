@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1020           |
+| BEE 1020           |
 | Idade em Dias      |
 *--------------------*/
 #include<stdio.h>

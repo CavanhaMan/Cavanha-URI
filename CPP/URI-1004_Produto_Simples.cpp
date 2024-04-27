@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1004           |
+| BEE 1004           |
 | Produto Simples    |
 *--------------------*/
 #include<stdio.h>

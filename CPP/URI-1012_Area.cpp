@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1012           |
+| BEE 1012           |
 | Area               |
 *--------------------*/
 #include<stdio.h>

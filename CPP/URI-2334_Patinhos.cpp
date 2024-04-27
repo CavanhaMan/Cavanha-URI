@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2334           |
+| BEE 2334           |
 | Patinho            |
 *--------------------*/
 #include <stdio.h>

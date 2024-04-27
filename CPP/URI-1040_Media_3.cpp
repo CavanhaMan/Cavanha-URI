@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1040           |
+| BEE 1040           |
 | Media              |
 *--------------------*/
 #include<stdio.h>

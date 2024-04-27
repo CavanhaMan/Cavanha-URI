@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1051           |
+| BEE 1051           |
 | Imposto de Reda    |
 *--------------------*/
 #include<stdio.h>

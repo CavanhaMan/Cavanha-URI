@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1011           |
+| BEE 1011           |
 | Esfera             |
 *--------------------*/
 #include<stdio.h>

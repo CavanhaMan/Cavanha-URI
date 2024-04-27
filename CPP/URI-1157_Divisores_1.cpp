@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1157           |
+| BEE 1157           |
 | Divisores 1        |
 *--------------------*/
 #include<stdio.h>

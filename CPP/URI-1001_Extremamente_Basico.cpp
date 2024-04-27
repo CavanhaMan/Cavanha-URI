@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1001           |
+| BEE 1001           |
 | Extremante Basico  |
 *--------------------*/
 #include<stdio.h>

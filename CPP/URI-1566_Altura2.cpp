@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1566           |
+| BEE 1566           |
 | Altura 2           |
 *--------------------*/
 #include <iostream>

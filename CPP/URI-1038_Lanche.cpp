@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1038           |
+| BEE 1038           |
 | Lanche             |
 *--------------------*/
 #include<stdio.h>

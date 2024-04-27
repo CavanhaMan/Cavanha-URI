@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1002           |
+| BEE 1002           |
 | Area do Circulo    |
 *--------------------*/
 #include<stdio.h>

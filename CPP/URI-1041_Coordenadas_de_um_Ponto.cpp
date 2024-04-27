@@ -1,6 +1,6 @@
 /*------------------------*
 | Rodrigo CavanhaMan      |
-| URI 1041                |
+| BEE 1041                |
 | Coordenadas de um Ponto |
 *-------------------------*/
 #include<stdio.h>

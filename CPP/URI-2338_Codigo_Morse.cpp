@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2338           |
+| BEE 2338           |
 | Codigo Morse       |
 *--------------------*/
 #include <bits/stdc++.h>

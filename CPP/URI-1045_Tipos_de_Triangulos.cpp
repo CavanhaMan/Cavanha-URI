@@ -1,6 +1,6 @@
 /*--------------------*
 | Rodrigo CavanhaMan  |
-| URI 1045            |
+| BEE 1045            |
 | Tipos de Triangulos |
 *---------------------*/
 #include<stdio.h>

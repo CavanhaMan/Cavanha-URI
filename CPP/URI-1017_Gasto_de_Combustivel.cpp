@@ -1,6 +1,6 @@
 /*---------------------*
 | Rodrigo CavanhaMan   |
-| URI 1017             |
+| BEE 1017             |
 | Gasto de Combustivel |
 *----------------------*/
 #include<stdio.h>

@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1044           |
+| BEE 1044           |
 | Multiplos          |
 *--------------------*/
 #include<stdio.h>

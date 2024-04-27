@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1035           |
+| BEE 1035           |
 | Teste de Selecao 1 |
 *--------------------*/
 #include<stdio.h>

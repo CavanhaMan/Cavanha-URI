@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1005           |
+| BEE 1005           |
 | Media 1            |
 *--------------------*/
 #include<stdio.h>

@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1010           |
+| BEE 1010           |
 | Calculo Simples    |
 *--------------------*/
 #include<stdio.h>

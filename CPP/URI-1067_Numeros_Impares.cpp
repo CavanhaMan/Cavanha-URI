@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1067           |
+| BEE 1067           |
 | Numeros Impares    |
 *--------------------*/
 #include<stdio.h>

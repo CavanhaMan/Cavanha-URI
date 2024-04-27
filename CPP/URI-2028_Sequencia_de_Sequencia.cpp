@@ -1,6 +1,6 @@
 /*-----------------------*
 | Rodrigo CavanhaMan     |
-| URI 2028               |
+| BEE 2028               |
 | Sequencia de sequencia |
 *------------------------*/
 #include<stdio.h>

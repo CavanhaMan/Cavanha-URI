@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1050           |
+| BEE 1050           |
 | DDD                |
 *--------------------*/
 #include<stdio.h>

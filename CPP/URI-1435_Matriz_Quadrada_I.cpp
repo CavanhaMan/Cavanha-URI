@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1435           |
+| BEE 1435           |
 | Matriz Quadrada I  |
 *--------------------*/
 #include <stdio.h>

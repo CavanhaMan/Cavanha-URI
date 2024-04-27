@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1007           |
+| BEE 1007           |
 | Diferenca          |
 *--------------------*/
 #include<stdio.h>
