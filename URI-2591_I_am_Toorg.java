@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2591           |
+| BEE 2591           |
 | I am Toorg!        |
 *--------------------*/
 import java.util.Scanner;

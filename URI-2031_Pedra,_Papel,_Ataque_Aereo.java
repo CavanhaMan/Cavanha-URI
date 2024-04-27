@@ -1,6 +1,6 @@
 /*-------------------------*
 | Rodrigo CavanhaMan       |
-| URI 2031                 |
+| BEE 2031                 |
 | Pedra Papel Ataque Aereo |
 *--------------------------*/
 import java.util.Scanner;

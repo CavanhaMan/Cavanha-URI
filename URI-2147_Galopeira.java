@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2147           |
+| BEE 2147           |
 | Galopeira          |
 *--------------------*/
 import java.util.Locale;

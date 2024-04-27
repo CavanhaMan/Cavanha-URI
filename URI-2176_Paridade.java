@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2176           |
+| BEE 2176           |
 | Paridade           |
 *--------------------*/
 import java.util.Locale;

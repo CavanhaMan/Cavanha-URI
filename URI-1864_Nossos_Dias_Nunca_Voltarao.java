@@ -1,6 +1,6 @@
 /*---------------------------*
 | Rodrigo CavanhaMan         |
-| URI 1864                   |
+| BEE 1864                   |
 | Nossos Dias Nunca Voltarão |
 *----------------------------*/
 import java.util.Scanner;

@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2497           |
+| BEE 2497           |
 | Contando Ciclos    |
 *--------------------*/
 import java.util.Scanner;

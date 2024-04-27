@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2327           |
+| BEE 2327           |
 | Quadrados          |
 | (Maratona)         |
 *--------------------*/

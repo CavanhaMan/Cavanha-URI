@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2547           |
+| BEE 2547           |
 | Montanha-Russa     |
 *--------------------*/
 import java.util.Scanner;

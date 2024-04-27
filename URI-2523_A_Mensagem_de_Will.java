@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2523           |
+| BEE 2523           |
 | A Mensagem de Will |
 *--------------------*/
 import java.util.Scanner;

@@ -1,6 +1,6 @@
 /*----------------------------*
 | Rodrigo CavanhaMan          |
-| URI 2759                    |
+| BEE 2759                    |
 | Entrada e Saída de Caracter |
 *-----------------------------*/
 import java.util.Scanner;

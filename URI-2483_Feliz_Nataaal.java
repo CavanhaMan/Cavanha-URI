@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2483           |
+| BEE 2483           |
 | Feliz Nataaal      |
 *--------------------*/
 import java.util.Scanner;

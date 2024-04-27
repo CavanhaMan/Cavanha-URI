@@ -1,6 +1,6 @@
 /*---------------------*
 | Rodrigo CavanhaMan   |
-| URI 2582             |
+| BEE 2582             |
 | System of a Download |
 *----------------------*/
 import java.util.Scanner;

@@ -1,6 +1,6 @@
 /*-----------------------*
 | Rodrigo CavanhaMan     |
-| URI 2168               |
+| BEE 2168               |
 | Crepúsculo em Portland |
 *------------------------*/
 import java.util.Locale;

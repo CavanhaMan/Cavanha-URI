@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2510           |
+| BEE 2510           |
 | Batmain            |
 *--------------------*/
 import java.util.Scanner;

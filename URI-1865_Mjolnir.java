@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1865           |
+| BEE 1865           |
 | Mjölnir            |
 *--------------------*/
 import java.util.Scanner;

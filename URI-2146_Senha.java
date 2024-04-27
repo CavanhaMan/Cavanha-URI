@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2146           |
+| BEE 2146           |
 | Senha              |
 *--------------------*/
 import java.util.Scanner;

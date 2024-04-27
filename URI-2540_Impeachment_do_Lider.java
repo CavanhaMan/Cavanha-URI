@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2540           |
+| BEE 2540           |
 |Impeachment do Líder|
 *--------------------*/
 import java.util.Locale;

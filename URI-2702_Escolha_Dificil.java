@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2702           |
+| BEE 2702           |
 | Escolha Difícil    |
 *--------------------*/
 import java.util.Scanner;

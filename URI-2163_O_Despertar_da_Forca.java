@@ -1,6 +1,6 @@
 /*---------------------*
 | Rodrigo CavanhaMan   |
-| URI 2163             |
+| BEE 2163             |
 | O Despertar da Forca |
 *----------------------*/
 import java.util.Scanner;

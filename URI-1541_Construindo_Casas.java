@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1541           |
+| BEE 1541           |
 | Construindo  Casas |
 *--------------------*
 O input terá A(lado da casa) >> B(outro lado) >> C(percentual)

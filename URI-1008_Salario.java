@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1008           |
+| BEE 1008           |
 | Salario            |
 *--------------------*/
 import java.util.Locale;

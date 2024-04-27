@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2486           |
+| BEE 2486           |
 | C Mais ou C Menos  |
 *--------------------*/
 import java.util.HashMap;

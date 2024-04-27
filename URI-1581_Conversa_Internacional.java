@@ -1,6 +1,6 @@
 /*-----------------------*
 | Rodrigo CavanhaMan     |
-| URI 1581               |
+| BEE 1581               |
 | Conversa Internacional |
 *------------------------*/
 import java.util.Scanner;

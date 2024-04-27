@@ -1,6 +1,6 @@
 /*--------------------------*
 | Rodrigo CavanhaMan        |
-| URI 1198                  |
+| BEE 1198                  |
 | O Bravo Guerreiro Hashmat |
 *---------------------------*/
 import java.util.Scanner;

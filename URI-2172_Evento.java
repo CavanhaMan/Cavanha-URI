@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2172           |
+| BEE 2172           |
 | Evento             |
 *--------------------*/
 import java.util.Locale;

@@ -1,6 +1,6 @@
 /*----------------------*
 | Rodrigo CavanhaMan    |
-| URI 1924              |
+| BEE 1924              |
 | Vitória e a Indecisão |
 *-----------------------*/
 import java.util.Scanner;

@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2003           |
+| BEE 2003           |
 | Domingo de Manha   |
 *--------------------*/
 import java.util.Locale;

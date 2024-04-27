@@ -1,6 +1,6 @@
 /*--------------------*
 | Rodrigo CavanhaMan  |
-| URI 1795            |
+| BEE 1795            |
 | Triângulo Trinomial |
 *---------------------*/
 import java.util.Scanner;

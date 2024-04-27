@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1238           |
+| BEE 1238           |
 | Combinador         |
 *--------------------*/
 import java.util.Locale;

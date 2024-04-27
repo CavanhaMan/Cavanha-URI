@@ -1,7 +1,7 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2633           |
-| Churras no Yuri    |
+| BEE 2633           |
+| Churras no YBEE    |
 *--------------------*/
 import java.util.HashMap;
 import java.util.Map;

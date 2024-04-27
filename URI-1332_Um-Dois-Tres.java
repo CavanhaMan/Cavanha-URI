@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1332           |
+| BEE 1332           |
 | Um-Dois-Três       |
 *--------------------*/
 import java.util.Locale;

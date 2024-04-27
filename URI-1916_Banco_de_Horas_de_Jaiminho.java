@@ -1,6 +1,6 @@
 /*---------------------------*
 | Rodrigo CavanhaMan         |
-| URI 1916                   |
+| BEE 1916                   |
 | Banco de Horas de Jaiminho |
 *----------------------------*/
 import java.util.Locale;

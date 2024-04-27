@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2166           |
+| BEE 2166           |
 | Raiz Quadrada de 2 |
 *--------------------*/
 import java.util.Locale;

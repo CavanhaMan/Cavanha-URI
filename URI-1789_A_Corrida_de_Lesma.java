@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1789           |
+| BEE 1789           |
 | A Corrida de Lesma |
 *--------------------*/
 import java.util.Scanner;

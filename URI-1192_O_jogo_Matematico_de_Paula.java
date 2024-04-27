@@ -1,6 +1,6 @@
 /*---------------------------*
 | Rodrigo CavanhaMan         |
-| URI 1192                   |
+| BEE 1192                   |
 | O jogo Matemático de Paula |
 *----------------------------*/
 import java.util.Locale;

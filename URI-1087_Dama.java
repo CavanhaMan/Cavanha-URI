@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1087           |
+| BEE 1087           |
 | DAMA               |
 *--------------------*/
 import java.util.Scanner;

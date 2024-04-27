@@ -1,6 +1,6 @@
 /*----------------------*
 | Rodrigo CavanhaMan    |
-| URI  2544             |
+| BEE  2544             |
 | Kage Bunshin no Jutsu |
 *-----------------------*/
 import java.util.Scanner;

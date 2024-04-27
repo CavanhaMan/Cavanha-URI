@@ -1,6 +1,6 @@
 /*--------------------*
 | Rodrigo CavanhaMan  |
-| URI 2709            |
+| BEE 2709            |
 | As Moedas de Robbie |
 *---------------------*/
 import java.util.Scanner;

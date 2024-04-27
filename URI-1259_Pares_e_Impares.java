@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1259           |
+| BEE 1259           |
 | Pares e Impares    |
 *--------------------*/
 import java.util.Scanner;

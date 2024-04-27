@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1848           |
+| BEE 1848           |
 | Corvo Contador     |
 *--------------------*/
 import java.util.Scanner;

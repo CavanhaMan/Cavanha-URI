@@ -1,6 +1,6 @@
 /*--------------------*
 | Rodrigo CavanhaMan  |
-| URI 2253            |
+| BEE 2253            |
 | Validador de Senhas |
 *---------------------*/
 import java.util.Locale;

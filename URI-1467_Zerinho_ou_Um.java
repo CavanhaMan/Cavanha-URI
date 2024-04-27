@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1467           |
+| BEE 1467           |
 | Zerinho ou Um      |
 *--------------------*/
 import java.util.Scanner;

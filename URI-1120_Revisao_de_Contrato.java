@@ -1,11 +1,11 @@
 /*--------------------*
 | Rodrigo CavanhaMan  |
-| URI 1120            |
+| BEE 1120            |
 | Revisão de Contrato |
 *---------------------*/
 import java.util.Scanner;
 import java.math.BigDecimal;
-public class uri_1120 {
+public class BEE_1120 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in); 
     	int checa=1;

@@ -1,6 +1,6 @@
 /*------------------------*
 | Rodrigo CavanhaMan      |
-| URI 1984                |
+| BEE 1984                |
 | O Enigma do Pronalandia |
 *-------------------------*/
 //import java.util.Locale;

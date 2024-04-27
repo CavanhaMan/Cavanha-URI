@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2596           |
+| BEE 2596           |
 | Xenlonguinho       |
 *--------------------*/
 import java.util.Scanner;

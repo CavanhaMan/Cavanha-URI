@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2493           |
+| BEE 2493           |
 | Jogo do Operador   |
 *--------------------*/
 import java.util.Scanner;

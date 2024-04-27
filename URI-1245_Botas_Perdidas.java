@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1245           |
+| BEE 1245           |
 | Botas Perdidas     |
 *--------------------*/
 import java.util.Locale;

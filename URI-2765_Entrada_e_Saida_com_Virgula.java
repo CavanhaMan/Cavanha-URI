@@ -1,6 +1,6 @@
 /*----------------------------*
 | Rodrigo CavanhaMan          |
-| URI 2765                    |
+| BEE 2765                    |
 | Entrada e Saída com Virgula |
 *-----------------------------*/
 import java.util.Scanner;

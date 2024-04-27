@@ -1,6 +1,6 @@
 /*---------------------------------*
 | Rodrigo CavanhaMan               |
-| URI 2338                         |
+| BEE 2338                         |
 | Codigo Morse qualquer quantidade |
 *----------------------------------*/
 import java.util.HashMap;

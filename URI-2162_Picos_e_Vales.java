@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2162           |
+| BEE 2162           |
 | Picos e Vales      |
 *--------------------*/
 import java.util.Scanner;

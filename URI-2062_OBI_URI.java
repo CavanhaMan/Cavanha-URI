@@ -1,7 +1,7 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2062           |
-| OBI URI            |
+| BEE 2062           |
+| OBI BEE            |
 *--------------------*/
 import java.util.Locale;
 import java.util.Scanner;
@@ -30,7 +30,7 @@ public class Main {
 					if (s[i].charAt(0) == 'O' && s[i].charAt(1) == 'B')
 						s[i] = "OBI";
 					else
-						s[i] = "URI";
+						s[i] = "BEE";
 				}
 		}
 

@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1589           |
+| BEE 1589           |
 | Bob Conduite       |
 *--------------------*/
 import java.util.Scanner;

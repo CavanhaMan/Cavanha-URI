@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2235           |
+| BEE 2235           |
 | Andando no Tempo 2 |
 *--------------------*/
 import java.util.Scanner;

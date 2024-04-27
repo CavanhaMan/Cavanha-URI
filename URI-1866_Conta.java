@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1866           |
+| BEE 1866           |
 | Conta              |
 *--------------------*/
 import java.util.Scanner;

@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1564           |
+| BEE 1564           |
 | Vai Ter Copa       |
 *--------------------*/
 import java.util.Scanner;

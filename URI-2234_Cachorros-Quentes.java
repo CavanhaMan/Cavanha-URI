@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2234           |
+| BEE 2234           |
 | Cachorros Quentes  |
 *--------------------*/
 import java.util.Locale;

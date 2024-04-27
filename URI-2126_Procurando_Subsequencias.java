@@ -1,6 +1,6 @@
 /*------------------------*
 | Rodrigo CavanhaMan      |
-| URI 2126                |
+| BEE 2126                |
 | Procurado Subsequencias |
 *-------------------------*/
 import java.util.Scanner;

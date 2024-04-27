@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2248           |
+| BEE 2248           |
 | Estagio            |
 *--------------------*/
 import java.util.ArrayList;

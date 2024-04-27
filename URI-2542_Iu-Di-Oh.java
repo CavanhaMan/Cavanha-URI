@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2542           |
+| BEE 2542           |
 | Iu-Di-Oh!          |
 *--------------------*/
 import java.util.Scanner;

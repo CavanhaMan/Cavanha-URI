@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1168           |
+| BEE 1168           |
 | LED                |
 *--------------------*/
 import java.util.Locale;

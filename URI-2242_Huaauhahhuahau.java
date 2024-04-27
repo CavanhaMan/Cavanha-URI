@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2242           |
+| BEE 2242           |
 | Huaauhahhuahau     |
 *--------------------*/
 import java.util.Locale;

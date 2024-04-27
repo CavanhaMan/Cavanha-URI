@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2626           |
+| BEE 2626           |
 | Turma do JB6       |
 *--------------------*/
 import java.util.Scanner;

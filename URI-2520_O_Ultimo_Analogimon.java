@@ -1,6 +1,6 @@
 /*--------------------*
 | Rodrigo CavanhaMan  |
-| URI 2520            |
+| BEE 2520            |
 | O Último Analógimôn |
 *---------------------*/
 import java.util.Locale;

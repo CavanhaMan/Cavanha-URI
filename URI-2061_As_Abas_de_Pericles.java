@@ -1,6 +1,6 @@
 /*--------------------*
 | Rodrigo CavanhaMan  |
-| URI 2061            |
+| BEE 2061            |
 | As Abas de Pericles |
 *---------------------*/
 import java.util.Locale;

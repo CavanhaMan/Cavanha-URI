@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2724           |
+| BEE 2724           |
 | Ajude Patatatitu   |
 *--------------------*/
 import java.util.Scanner;

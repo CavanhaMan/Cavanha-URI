@@ -1,6 +1,6 @@
 /*----------------------------------------*
 | Rodrigo CavanhaMan                      |
-| URI 1960                                |
+| BEE 1960                                |
 | Numeracao Romana para Numeros de Página |
 *-----------------------------------------*/
 import java.util.Scanner;

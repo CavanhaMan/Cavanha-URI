@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1256           |
+| BEE 1256           |
 | Tabelas Hash       |
 *--------------------*/
 import java.util.Scanner;

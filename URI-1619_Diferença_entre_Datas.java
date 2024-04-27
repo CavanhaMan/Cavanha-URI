@@ -1,6 +1,6 @@
 /*----------------------*
 | Rodrigo CavanhaMan    |
-| URI 1619              |
+| BEE 1619              |
 | Diferença entre Datas |
 *-----------------------*/
 import java.util.Locale;

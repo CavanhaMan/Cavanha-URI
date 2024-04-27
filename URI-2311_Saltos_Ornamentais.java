@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2311           |
+| BEE 2311           |
 | Saltor Ornamentais |
 *--------------------*/
 import java.util.ArrayList;

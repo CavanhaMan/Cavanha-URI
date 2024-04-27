@@ -1,6 +1,6 @@
 /*----------------------------*
 | Rodrigo CavanhaMan          |
-| URI 2159                    |
+| BEE 2159                    |
 | Numero Aproximado de Primos |
 *-----------------------------*/
 import java.util.Locale;

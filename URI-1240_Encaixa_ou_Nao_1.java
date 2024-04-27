@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1240           |
+| BEE 1240           |
 | Encaixa ou Não 1   |
 *--------------------*/
 import java.util.Scanner;

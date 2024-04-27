@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2167           |
+| BEE 2167           |
 | Falha no Motor     |
 *--------------------*/
 import java.util.Locale;

@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1069           |
+| BEE 1069           |
 | Diamantes e Areia  |
 *--------------------*/
 import java.util.Scanner;

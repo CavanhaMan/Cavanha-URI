@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2727           |
+| BEE 2727           |
 | Código Secreto     |
 *--------------------*/
 import java.util.Scanner;

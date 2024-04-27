@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2313           |
+| BEE 2313           |
 | Qual Triangulo     |
 *--------------------*/
 import java.util.Scanner;

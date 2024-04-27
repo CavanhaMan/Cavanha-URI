@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2712           |
+| BEE 2712           |
 | Rodizio Veicular   |
 *--------------------*/
 import java.util.Scanner;

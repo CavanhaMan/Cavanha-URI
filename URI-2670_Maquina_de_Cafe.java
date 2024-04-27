@@ -1,7 +1,7 @@
 package projeto01;
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2670           |
+| BEE 2670           |
 | Máquina de Café    |
 *--------------------*/
 import java.util.Scanner;

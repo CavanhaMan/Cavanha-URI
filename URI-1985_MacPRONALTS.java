@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1985           |
+| BEE 1985           |
 | MacPronalts        |
 *--------------------*/
 import java.util.Locale;

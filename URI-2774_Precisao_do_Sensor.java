@@ -1,7 +1,7 @@
 /*
 +-------------------+
 |Rodrigo CavanhaMan |
-|URI 2774           |
+|BEE 2774           |
 |Precisao do Sensor |
 +-------------------+
 */

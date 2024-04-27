@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2164           |
+| BEE 2164           |
 | Fibonacci Rápido   |
 *--------------------*/
 import java.util.Locale;

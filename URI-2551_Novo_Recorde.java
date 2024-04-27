@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2551           |
+| BEE 2551           |
 | Novo Recorde       |
 *--------------------*/
 import java.util.Scanner;

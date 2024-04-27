@@ -1,6 +1,6 @@
 /*--------------------*
 | Rodrigo CavanhaMan  |
-| URI 2221            |
+| BEE 2221            |
 | Batalha de Pomekons |
 *---------------------*/
 import java.util.Scanner;

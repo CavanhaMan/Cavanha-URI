@@ -1,7 +1,7 @@
 /*
 +------------------+
 |Rodrigo CavanhaMan|
-|URI 2782          |
+|BEE 2782          |
 |Escadinha         |
 +------------------+
 */
@@ -65,7 +65,7 @@ IDENTIFICAR:
 - SEQUENCIAS COM INTERVALOS IGUAIS
 - PAR DE NÚMEROS QUE SOBRAREM
 
-URI-2782_Escadinha
+BEE-2782_Escadinha
 
 12
 458 458 1 3 1 -128 -128 8 12 457 457 1

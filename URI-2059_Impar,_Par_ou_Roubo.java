@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2059           |
+| BEE 2059           |
 | Impar Par ou Roubo |
 *--------------------*/
 import java.util.Scanner;

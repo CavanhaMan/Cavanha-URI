@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1983           |
+| BEE 1983           |
 | O Escolhido        |
 *--------------------*/
 import java.util.Scanner;

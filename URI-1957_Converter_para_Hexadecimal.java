@@ -1,6 +1,6 @@
 /*---------------------------*
 | Rodrigo CavanhaMan         |
-| URI 1957                   |
+| BEE 1957                   |
 | Converter para Hexadecimal |
 *----------------------------*/
 //import java.util.Locale;

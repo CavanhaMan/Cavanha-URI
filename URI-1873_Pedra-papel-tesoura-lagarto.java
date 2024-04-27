@@ -1,6 +1,6 @@
 /*----------------------------*
 | Rodrigo CavanhaMan          |
-| URI 1873                    |
+| BEE 1873                    |
 | Pedra-Papel-Tesoura-Lagarto |
 *-----------------------------*/
 import java.util.Locale;

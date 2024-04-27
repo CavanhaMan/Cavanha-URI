@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1963           |
+| BEE 1963           |
 | O  Filme           |
 *--------------------*/
 import java.util.Scanner;

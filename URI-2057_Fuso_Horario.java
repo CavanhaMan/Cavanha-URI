@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2057           |
+| BEE 2057           |
 | Fuso Horario       |
 *--------------------*/
 import java.util.Scanner;

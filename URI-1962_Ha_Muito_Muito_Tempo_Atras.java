@@ -1,6 +1,6 @@
 /*---------------------------*
 | Rodrigo CavanhaMan         |
-| URI 1962                   |
+| BEE 1962                   |
 | Ha Muito Muito Tempo Atras |
 *----------------------------*/
 import java.util.Scanner;

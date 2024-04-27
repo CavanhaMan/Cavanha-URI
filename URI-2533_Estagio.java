@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2533           |
+| BEE 2533           |
 | Estagio            |
 *--------------------*/
 import java.util.Locale;

@@ -1,6 +1,6 @@
 /*----------------------------*
 | Rodrigo CavanhaMan          |
-| URI 1959                    |
+| BEE 1959                    |
 | Poligonos Regulares Simples |
 *-----------------------------*/
 import java.util.Scanner;

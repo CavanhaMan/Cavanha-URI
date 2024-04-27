@@ -1,6 +1,6 @@
 /*---------------------*
 | Rodrigo CavanhaMan   |
-| URI 2552             |
+| BEE 2552             |
 | Pão de Quejo Sweeper |
 *----------------------*/
 import java.util.Scanner;

@@ -1,6 +1,6 @@
 /*---------------------*
 | Rodrigo CavanhaMan   |
-| URI 1251             |
+| BEE 1251             |
 | Diga-me a Frequência |
 *----------------------*/
 import java.util.ArrayList;

@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2060           |
+| BEE 2060           |
 | Desafio de Bino    |
 *--------------------*/
 import java.util.Locale;

@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1222           |
+| BEE 1222           |
 | Concurso de Contos |
 *--------------------*/
 import java.util.Scanner;

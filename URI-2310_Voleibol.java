@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2310           |
+| BEE 2310           |
 | Voleibol           |
 *--------------------*/
 import java.util.Locale;
