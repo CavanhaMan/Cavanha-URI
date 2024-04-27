@@ -1,6 +1,6 @@
 /*--------------------*
 | Rodrigo CavanhaMan  |
-| URI 2161            |
+| BEE 2161            |
 | Raiz Quadrada de 10 |
 *---------------------*/
 # -*- coding: utf-8 -*-

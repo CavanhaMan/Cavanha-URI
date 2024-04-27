@@ -1,7 +1,7 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1028           |
-| Figurinhas         |
+| BEE 1028           |
+| FigBEEnhas         |
 *--------------------*/
 # -*- coding: utf-8 -*-
 N=int(input())

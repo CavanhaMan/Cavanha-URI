@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1049           |
+| BEE 1049           |
 | Animal             |
 *--------------------*/
 AN1 = input()

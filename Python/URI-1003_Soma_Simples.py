@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 1003           |
+| BEE 1003           |
 | Soma Simples       |
 *--------------------*/
 A = input()
