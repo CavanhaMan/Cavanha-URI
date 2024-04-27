@@ -1,6 +1,6 @@
 /*--------------------------------------------*
 | Rodrigo CavanhaMan                          |
-| BEE 2479                                    |
+| URI 2479                                    |
 | Ordenando a Lista de Crianças do Papai Noel |
 *---------------------------------------------*/
 import java.util.ArrayList;

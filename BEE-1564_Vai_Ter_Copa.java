@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 1564           |
-| Vai Ter Copa       |
-*--------------------*/
+|        IFTM        |
+|      BEE 1564      |
++--------------------+
+*/
 import java.util.Scanner;
 
 public class Main {

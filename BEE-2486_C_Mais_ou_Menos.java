@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 2486           |
-| C Mais ou C Menos  |
-*--------------------*/
+|        IFTM        |
+|      BEE 2486      |
++--------------------+
+*/
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;

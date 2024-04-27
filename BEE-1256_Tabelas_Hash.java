@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 1256           |
-| Tabelas Hash       |
-*--------------------*/
+|      BEE 1256      |
+|    Tabelas Hash    |
++--------------------+
+*/
 import java.util.Scanner;
 import java.util.Arrays;
 

@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 2172           |
-| Evento             |
-*--------------------*/
+|        IFTM        |
+|      BEE 2172      |
++--------------------+
+*/
 import java.util.Locale;
 import java.util.Scanner;
 

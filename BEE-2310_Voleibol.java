@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 2310           |
-| Voleibol           |
-*--------------------*/
+|        IFTM        |
+|      BEE 2310      |
++--------------------+
+*/
 import java.util.Locale;
 import java.util.Scanner;
 

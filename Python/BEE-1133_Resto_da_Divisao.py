@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1133           |
+| URI 1133           |
 | Resto da Divisao   |
 *--------------------*/
 A,B,C = map(int,input().split() )

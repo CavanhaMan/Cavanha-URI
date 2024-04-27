@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 2170           |
+| URI 2170           |
 | Juros do Projeto   |
 *--------------------*/
 import java.util.Locale;

@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1049           |
+| URI 1049           |
 | Animal             |
 *--------------------*/
 #include<stdio.h>

@@ -1,8 +1,10 @@
-/*-------------------*
-| Rodrigo CavanhaMan |
-| BEE 2235           |
-| Andando no Tempo 2 |
-*--------------------*/
+/*
+╔════════════════════╗
+║ Rodrigo CavanhaMan ║
+║      BEE 2235      ║
+║  Andando no Tempo  ║
+╚════════════════════╝
+*/
 import java.util.Scanner;
 
 public class Main {

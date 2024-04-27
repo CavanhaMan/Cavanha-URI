@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1009           |
+| URI 1009           |
 | Salario com Bonus  |
 *--------------------*/
 #include<stdio.h>

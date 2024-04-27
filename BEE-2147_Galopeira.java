@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 2147           |
-| Galopeira          |
-*--------------------*/
+|        IFTM        |
+|      BEE 2147      |
++--------------------+
+*/
 import java.util.Locale;
 import java.util.Scanner;
 

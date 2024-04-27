@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 1168           |
-| LED                |
-*--------------------*/
+|        IFTM        |
+|      BEE 1168      |
++--------------------+
+*/
 import java.util.Locale;
 import java.util.Scanner;
 

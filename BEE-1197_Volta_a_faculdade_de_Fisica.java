@@ -1,6 +1,6 @@
 /*----------------------------*
 | Rodrigo CavanhaMan          |
-| 1197                        |
+| BEE 1197                    |
 | Volta a faculdade de Fisica |
 *-----------------------------*/
 import java.util.Scanner;

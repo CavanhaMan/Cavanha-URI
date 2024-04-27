@@ -1,8 +1,10 @@
-/*-------------------*
-| Rodrigo CavanhaMan |
-| BEE 2234           |
-| Cachorros Quentes  |
-*--------------------*/
+/*
+╔════════════════════╗
+║ Rodrigo CavanhaMan ║
+║      BEE 2234      ║
+║ Cachorros  Quentes ║
+╚════════════════════╝
+*/
 import java.util.Locale;
 import java.util.Scanner;
 

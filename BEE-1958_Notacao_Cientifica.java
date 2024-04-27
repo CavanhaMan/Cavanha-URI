@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1958           |
+| URI 1958           |
 | Notacao Cientifica |
 *--------------------*/
 import java.util.Scanner;

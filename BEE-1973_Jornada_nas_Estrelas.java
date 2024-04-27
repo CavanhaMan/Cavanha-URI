@@ -1,6 +1,6 @@
 /*---------------------*
 | Rodrigo CavanhaMan   |
-| BEE 1973             |
+| URI 1973             |
 | Jornada nas Estrelas |
 *----------------------*/
 import java.util.Scanner;

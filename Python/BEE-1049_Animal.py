@@ -1,8 +1,10 @@
-/*-------------------*
-| Rodrigo CavanhaMan |
-| BEE 1049           |
-| Animal             |
-*--------------------*/
+/*
++--------------------+
+¦ Rodrigo CavanhaMan ¦
+¦        IFTM        ¦
+¦      BEE 1049      ¦
++--------------------+
+*/
 AN1 = input()
 AN2 = input()
 AN3 = input()

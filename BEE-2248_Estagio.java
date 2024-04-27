@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 2248           |
-| Estagio            |
-*--------------------*/
+|        IFTM        |
+|      BEE 2248      |
++--------------------+
+*/
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

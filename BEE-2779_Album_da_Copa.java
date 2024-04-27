@@ -1,7 +1,7 @@
 /*
 +-------------------+
 |Rodrigo CavanhaMan |
-|BEE 2779           |
+|URI 2779           |
 |Album da Copa      |
 +-------------------+
 */
@@ -15,8 +15,8 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		
 		int N = sc.nextInt();  //espaços numerados de 1 a N
-		int M = sc.nextInt();  //total de figBEEnhas ja compradas
-		Set<Integer> X = new LinkedHashSet<Integer>();//qual figBEEnha já foi comprada
+		int M = sc.nextInt();  //total de figurinhas ja compradas
+		Set<Integer> X = new LinkedHashSet<Integer>();//qual figurinha já foi comprada
 		for (int i=0 ; i<M ; i++)
 			X.add(sc.nextInt());//não aceita repeticao ;-)
 		System.out.println(N-X.size());

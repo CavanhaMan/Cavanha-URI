@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 2218           |
+| URI 2218           |
 | O Temível Evil-Son |
 *--------------------*/
 import java.util.Scanner;

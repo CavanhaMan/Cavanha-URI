@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1555           |
+| URI 1555           |
 | Funcoes            |
 *--------------------*/
 import java.util.Scanner;

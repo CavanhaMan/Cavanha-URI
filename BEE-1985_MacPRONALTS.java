@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 1985           |
-| MacPronalts        |
-*--------------------*/
+|        IFTM        |
+|      BEE 1985      |
++--------------------+
+*/
 import java.util.Locale;
 import java.util.Scanner;
 

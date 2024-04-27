@@ -1,6 +1,6 @@
 /*--------------------*
 | Rodrigo CavanhaMan  |
-| BEE  2762           |
+| URI  2762           |
 | Entrada e Saída CPF |
 *--------------------*/
 import java.util.Scanner;

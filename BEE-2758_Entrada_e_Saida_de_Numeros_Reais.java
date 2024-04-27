@@ -1,6 +1,6 @@
 /*---------------------------------*
 | Rodrigo CavanhaMan               |
-| BEE 2758                         |
+| URI 2758                         |
 | Entrada e Saída de Números Reais |
 *----------------------------------*/
 #include <iostream>

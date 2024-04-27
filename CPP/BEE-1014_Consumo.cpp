@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1014           |
+| URI 1014           |
 | Consumo            |
 *--------------------*/
 #include<stdio.h>

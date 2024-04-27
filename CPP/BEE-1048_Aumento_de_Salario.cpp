@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1048           |
+| URI 1048           |
 | Aumento de Salario |
 *--------------------*/
 #include<stdio.h>

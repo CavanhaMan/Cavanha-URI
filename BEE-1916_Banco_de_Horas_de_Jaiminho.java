@@ -1,8 +1,10 @@
-/*---------------------------*
-| Rodrigo CavanhaMan         |
-| BEE 1916                   |
-| Banco de Horas de Jaiminho |
-*----------------------------*/
+/*
++--------------------+
+| Rodrigo CavanhaMan |
+|        IFTM        |
+|      BEE 1916      |
++--------------------+
+*/
 import java.util.Locale;
 import java.util.Scanner;
 

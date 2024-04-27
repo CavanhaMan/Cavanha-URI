@@ -1,8 +1,10 @@
-/*-------------------*
-| Rodrigo CavanhaMan |
-| BEE 1566           |
-| Altura             |
-*--------------------*/
+/*
++--------------------+
+¦ Rodrigo CavanhaMan ¦
+¦        IFTM        ¦
+¦      BEE 1566      ¦
++--------------------+
+*/
 #include<iostream>
 #include<stdio.h>
 #include<algorithm>

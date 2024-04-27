@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 2167           |
-| Falha no Motor     |
-*--------------------*/
+|        IFTM        |
+|      BEE 2167      |
++--------------------+
+*/
 import java.util.Locale;
 import java.util.Scanner;
 

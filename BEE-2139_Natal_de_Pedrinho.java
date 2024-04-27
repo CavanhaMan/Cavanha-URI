@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 2139           |
-| Natal e Pedrinho   |
-*--------------------*/
+|        IFTM        |
+|      BEE 2139      |
++--------------------+
+*/
 import java.util.Locale;
 import java.util.Scanner;
 

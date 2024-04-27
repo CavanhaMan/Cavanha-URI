@@ -1,6 +1,6 @@
 /*--------------------*
 | Rodrigo CavanhaMan  |
-| BEE 1858            |
+| URI 1858            |
 | A Resposta de Theon |
 *---------------------*/
 import java.util.Scanner;

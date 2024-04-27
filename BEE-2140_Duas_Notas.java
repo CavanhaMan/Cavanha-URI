@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 2140           |
-| Duas Notas         |
-*--------------------*/
+|        IFTM        |
+|      BEE 2140      |
++--------------------+
+*/
 import java.util.Locale;
 import java.util.Scanner;
 

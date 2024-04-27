@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1930           |
+| URI 1930           |
 | Tomadas            |
 *--------------------*/
 import java.util.Scanner;

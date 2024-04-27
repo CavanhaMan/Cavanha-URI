@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1961           |
+| URI 1961           |
 | Pula Sapo          |
 *--------------------*/
 import java.util.Scanner;

@@ -1,6 +1,6 @@
 /*--------------------*
 | Rodrigo CavanhaMan  |
-| BEE  1557           |
+| URI  1557           |
 | Matriz Quadrada III |
 *---------------------*/
 import java.util.Scanner;

@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1037           |
+| URI 1037           |
 | Intervalo          |
 *--------------------*/
 #include<stdio.h>

@@ -1,8 +1,10 @@
-/*-------------------*
-| Rodrigo CavanhaMan |
-| BEE 1013           |
-| O Maior            |
-*--------------------*/
+/*
++--------------------+
+¦ Rodrigo CavanhaMan ¦
+¦        IFTM        ¦
+¦      BEE 1013      ¦
++--------------------+
+*/
 A,B,C = map(int,input().split() )
 MaiorAB = ((A+B+abs(A-B))/2)
 MaiorABC = ((MaiorAB+C+abs(MaiorAB-C))/2)

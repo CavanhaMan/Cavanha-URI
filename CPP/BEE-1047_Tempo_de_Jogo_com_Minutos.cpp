@@ -1,6 +1,6 @@
 /*--------------------------*
 | Rodrigo CavanhaMan        |
-| BEE 1047                  |
+| URI 1047                  |
 | Tempo de Jogo com Minutos |
 *---------------------------*/
 #include<stdio.h>

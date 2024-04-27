@@ -1,6 +1,6 @@
 /*-------------------------*
 | Rodrigo CavanhaMan       |
-| BEE 1620                 |
+| URI 1620                 |
 | Triangulação de Delaunay |
 *--------------------------*/
 import java.util.Scanner;

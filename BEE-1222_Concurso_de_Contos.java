@@ -1,8 +1,10 @@
-/*-------------------*
-| Rodrigo CavanhaMan |
-| BEE 1222           |
-| Concurso de Contos |
-*--------------------*/
+/*
+╔════════════════════╗
+║ Rodrigo CavanhaMan ║
+║      BEE 1222      ║
+║ Concurso de Contos ║
+╚════════════════════╝
+*/
 import java.util.Scanner;
 public class Main {
 	public static void main(String[] args) {

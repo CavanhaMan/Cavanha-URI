@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 2165           |
-| Tuitando           |
-*--------------------*/
+|        IFTM        |
+|      BEE 2165      |
++--------------------+
+*/
 import java.util.Locale;
 import java.util.Scanner;
 

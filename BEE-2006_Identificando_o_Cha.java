@@ -1,6 +1,6 @@
 /*--------------------*
 | Rodrigo CavanhaMan  |
-| BEE 2006            |
+| URI 2006            |
 | Identificando o Cha |
 *---------------------*/
 import java.util.Scanner;

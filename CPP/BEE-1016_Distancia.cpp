@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1016           |
+| URI 1016           |
 | Distancia          |
 *--------------------*/
 #include<stdio.h>

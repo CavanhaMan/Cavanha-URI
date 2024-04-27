@@ -1,6 +1,6 @@
 /*--------------------*
 | Rodrigo CavanhaMan  |
-| BEE 1036            |
+| URI 1036            |
 | Formula de Bhaskara |
 *---------------------*/
 #include<stdio.h>

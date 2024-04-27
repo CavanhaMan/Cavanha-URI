@@ -1,8 +1,10 @@
-/*--------------------*
-| Rodrigo CavanhaMan  |
-| BEE 2234            |
-| Cachorros-Quentes 2 |
-*---------------------*/
+/*
++--------------------+
+| Rodrigo CavanhaMan |
+|        IFTM        |
+|      BEE 2234      |
++--------------------+
+*/
 import java.util.Locale;
 import java.util.Scanner;
 

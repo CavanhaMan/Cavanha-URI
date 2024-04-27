@@ -1,8 +1,10 @@
-/*-------------------*
-| Rodrigo CavanhaMan |
-| BEE 1021           |
-| Notas e Moedas     |
-*--------------------*/
+/*
++--------------------+
+¦ Rodrigo CavanhaMan ¦
+¦        IFTM        ¦
+¦      BEE 1021      ¦
++--------------------+
+*/
 # -*- coding: utf-8 -*-
 MONEYA,MONEYB = map (int, input().split(".") )
 

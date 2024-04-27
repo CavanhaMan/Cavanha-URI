@@ -1,8 +1,10 @@
-/*-------------------*
-| Rodrigo CavanhaMan |
-| BEE 2313           |
-| Qual Triangulo     |
-*--------------------*/
+/*
+╔════════════════════╗
+║ Rodrigo CavanhaMan ║
+║        IFTM        ║
+║      BEE 2313      ║
+╚════════════════════╝
+*/
 import java.util.Scanner;
 
 public class Main {

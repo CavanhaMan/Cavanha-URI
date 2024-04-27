@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1246           |
+| URI 1246           |
 | Estacionamento     |
 *--------------------*/
 import java.util.Scanner;

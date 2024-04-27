@@ -1,6 +1,6 @@
 /*----------------------*
 | Rodrigo CavanhaMan    |
-| BEE 1244              |
+| URI 1244              |
 | Ordenação por Tamanho |
 *-----------------------*/
 import java.util.Scanner;

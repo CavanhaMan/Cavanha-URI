@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 2235           |
-| Andando no Tempo   |
-*--------------------*/
+|        IFTM        |
+|      BEE 2235      |
++--------------------+
+*/
 import java.util.Scanner;
 
 public class Main {

@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 1259           |
-| Pares e Impares    |
-*--------------------*/
+|      BEE 1259      |
+|   Pares  Impares   |
++--------------------+
+*/
 import java.util.Scanner;
 //import java.util.Locale;
 import java.util.ArrayList;

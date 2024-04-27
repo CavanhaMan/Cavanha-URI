@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 2598           |
+| URI 2598           |
 | Colocando Radares  |
 *--------------------*/
 import java.util.Scanner;

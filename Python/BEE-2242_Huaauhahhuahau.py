@@ -1,8 +1,10 @@
-/*-------------------*
-| Rodrigo CavanhaMan |
-| BEE 2242           |
-| Huaauhahhuahau     | 
-*--------------------*/
+/*
++--------------------+
+¦ Rodrigo CavanhaMan ¦
+¦        IFTM        ¦
+¦      BEE 2242      ¦
++--------------------+
+*/
 # -*- coding: utf-8 -*-
 RISADA = (input ())
 lol = []

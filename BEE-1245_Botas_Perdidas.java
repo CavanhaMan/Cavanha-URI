@@ -1,8 +1,10 @@
-/*-------------------*
-| Rodrigo CavanhaMan |
-| BEE 1245           |
-| Botas Perdidas     |
-*--------------------*/
+/*
++---------------------+
+| Rodrigo CavanhaMan  |
+|      BEE 1245       |
+|   Botas  Perdidas   |
++---------------------+
+*/
 import java.util.Locale;
 import java.util.Scanner;
 

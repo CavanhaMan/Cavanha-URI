@@ -1,6 +1,6 @@
 /*---------------------------------*
 | Rodrigo CavanhaMan               |
-| BEE 2502                         |
+| URI 2502                         |
 | Decifrando a Carta Criptografada |
 *----------------------------------*/
 import java.util.Locale;

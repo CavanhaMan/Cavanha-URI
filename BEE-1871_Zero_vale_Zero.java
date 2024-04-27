@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 1871           |
-| Zero vale Zero     |
-*--------------------*/
+|        IFTM        |
+|      BEE 1871      |
++--------------------+
+*/
 import java.util.Locale;
 import java.util.Scanner;
 

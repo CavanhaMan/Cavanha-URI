@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1013           |
+| URI 1013           |
 | O Maior            |
 *--------------------*/
 #include<stdio.h>

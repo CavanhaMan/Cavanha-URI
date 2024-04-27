@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1169           |
+| URI 1169           |
 | Trigo no Tabuleiro |
 *--------------------*/
 import java.util.Scanner;

@@ -1,8 +1,10 @@
-/*-------------------*
-| Rodrigo CavanhaMan |
-| BEE 1467           |
-| Zerinho ou Um      |
-*--------------------*/
+/*
++---------------------+
+| Rodrigo CavanhaMan  |
+|      BEE 1467       |
+|    Zerinho ou Um    |
++---------------------+
+*/
 import java.util.Scanner;
 
 public class Main {

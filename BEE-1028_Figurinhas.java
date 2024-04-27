@@ -1,8 +1,8 @@
 /*
 +--------------------+
 | Rodrigo CavanhaMan |
-|      BEE 1028      |
-|     FigBEEnhas     |
+|      URI 1028      |
+|     Figurinhas     |
 +--------------------+
 */
 import java.util.Scanner;
@@ -17,18 +17,18 @@ public class Main {
 			int a = sc.nextInt();
 			int b = sc.nextInt();
 			int menor = Math.min(a,b);
-			int result = figBEEnha(a,b,menor);
+			int result = figurinha(a,b,menor);
 			System.out.println(result);
 		}
 		sc.close();
 	}
 
-	private static int figBEEnha(int a, int b, int menor) {
+	private static int figurinha(int a, int b, int menor) {
 		if(a%menor==0 && b%menor==0)
 			return menor;
 		else{
 			menor--;
-			return figBEEnha(a,b,menor);
+			return figurinha(a,b,menor);
 		}
 	}
 }

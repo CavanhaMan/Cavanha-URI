@@ -1,9 +1,11 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 2327           |
-| Quadrados          |
-| (Maratona)         |
-*--------------------*/
+|        IFTM        |
+|      Maratona      |
+|  Quadrado  Mágico  |
++--------------------+
+*/
 import java.util.Scanner;
 
 public class Main {

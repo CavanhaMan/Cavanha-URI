@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 2547           |
-| Montanha-Russa     |
-*--------------------*/
+|        IFTM        |
+|      BEE 2547      |
++--------------------+
+*/
 import java.util.Scanner;
 
 public class Main {

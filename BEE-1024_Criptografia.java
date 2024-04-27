@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1024           |
+| URI 1024           |
 | Criptografia       |
 *--------------------*/
 import java.util.Locale;

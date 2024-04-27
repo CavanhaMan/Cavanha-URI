@@ -1,8 +1,10 @@
-/*-------------------*
-| Rodrigo CavanhaMan |
-| BEE 2311           |
-| Saltor Ornamentais |
-*--------------------*/
+/*
+╔════════════════════╗
+║ Rodrigo CavanhaMan ║
+║        IFTM        ║
+║      BEE 2311      ║
+╚════════════════════╝
+*/
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

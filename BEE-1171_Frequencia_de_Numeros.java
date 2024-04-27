@@ -1,6 +1,6 @@
 /*----------------------*
 | Rodrigo CavanhaMan    |
-| BEE 1171              |
+| URI 1171              |
 | Frequencia de Numeros |
 *-----------------------*/
 import java.util.ArrayList;

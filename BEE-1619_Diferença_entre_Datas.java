@@ -1,8 +1,10 @@
-/*----------------------*
-| Rodrigo CavanhaMan    |
-| BEE 1619              |
-| Diferença entre Datas |
-*-----------------------*/
+/*
+╔═══════════════════╗
+║Rodrigo CavanhaMan ║
+║     BEE 1619      ║
+║DiferençaEntreDatas║
+╚═══════════════════╝
+*/
 import java.util.Locale;
 import java.util.Scanner;
 import java.util.TimeZone;

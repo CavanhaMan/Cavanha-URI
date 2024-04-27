@@ -1,8 +1,10 @@
-/*-------------------*
-| Rodrigo CavanhaMan |
-| BEE 1478           |
-| Matriz Quadrada II |
-*--------------------*/
+/*
++--------------------+
+¦ Rodrigo CavanhaMan ¦
+¦        IFTM        ¦
+¦      BEE 1478      ¦
++--------------------+
+*/
 
 #include <stdio.h>
 #include <iostream>

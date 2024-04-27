@@ -1,8 +1,10 @@
-/*-----------------------*
-| Rodrigo CavanhaMan     |
-| BEE 1581               |
-| Conversa Internacional |
-*------------------------*/
+/*
++--------------------+
+| Rodrigo CavanhaMan |
+|        IFTM        |
+|      BEE 1581      |
++--------------------+
+*/
 import java.util.Scanner;
 
 public class Main {

@@ -1,8 +1,10 @@
-/*---------------------------*
-| Rodrigo CavanhaMan         |
-| BEE 1957                   |
-| Converter para Hexadecimal |
-*----------------------------*/
+/*
++--------------------+
+| Rodrigo CavanhaMan |
+|        IFTM        |
+|      BEE 1957      |
++--------------------+
+*/
 //import java.util.Locale;
 import java.util.Scanner;
 

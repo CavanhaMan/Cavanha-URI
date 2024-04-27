@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 2176           |
-| Paridade           |
-*--------------------*/
+|        IFTM        |
+|      BEE 2176      |
++--------------------+
+*/
 import java.util.Locale;
 import java.util.Scanner;
 

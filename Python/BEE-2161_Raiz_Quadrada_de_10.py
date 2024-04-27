@@ -1,8 +1,10 @@
-/*--------------------*
-| Rodrigo CavanhaMan  |
-| BEE 2161            |
-| Raiz Quadrada de 10 |
-*---------------------*/
+/*
++--------------------+
+¦ Rodrigo CavanhaMan ¦
+¦        IFTM        ¦
+¦      BEE 2161      ¦
++--------------------+
+*/
 # -*- coding: utf-8 -*-
 N=int(input())
 cont=N

@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 2338           |
-| Codigo Morse       |
-*--------------------*/
+|        IFTM        |
+|      BEE 2338      |
++--------------------+
+*/
 #include <bits/stdc++.h>
 using namespace std;
 int main()

@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1003           |
+| URI 1003           |
 | Soma Simples       |
 *--------------------*/
 #include<stdio.h>

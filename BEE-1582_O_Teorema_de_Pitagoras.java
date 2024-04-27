@@ -1,12 +1,12 @@
 /*-----------------------*
 | Rodrigo CavanhaMan     |
-| BEE 1582               |
+| URI 1582               |
 | O Teorema de Pitagoras |
 *------------------------*/
 import java.util.Locale;
 import java.util.Scanner;
 
-public class BEE_1582 {
+public class URI_1582 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

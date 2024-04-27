@@ -1,8 +1,10 @@
-/*----------------------------*
-| Rodrigo CavanhaMan          |
-| BEE 1873                    |
-| Pedra-Papel-Tesoura-Lagarto |
-*-----------------------------*/
+/*
++--------------------+
+| Rodrigo CavanhaMan |
+|        IFTM        |
+|      BEE 1873      |
++--------------------+
+*/
 import java.util.Locale;
 import java.util.Scanner;
 

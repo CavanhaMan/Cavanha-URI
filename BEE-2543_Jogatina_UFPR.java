@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 2543           |
-| Jogatina           |
-*--------------------*/
+|        IFTM        |
+|      BEE 2543      |
++--------------------+
+*/
 //import java.util.Locale;
 import java.util.Scanner;
 

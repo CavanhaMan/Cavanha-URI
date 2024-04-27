@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 2060           |
-| Desafio de Bino    |
-*--------------------*/
+|        IFTM        |
+|      BEE 2060      |
++--------------------+
+*/
 import java.util.Locale;
 import java.util.Scanner;
 

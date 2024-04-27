@@ -1,6 +1,6 @@
 /*----------------------*
 | Rodrigo CavanhaMan    |
-| BEE 1068              |
+| URI 1068              |
 | Balanco de Parenteses |
 *-----------------------*/
 import java.util.Scanner;

@@ -1,8 +1,10 @@
-/*-------------------*
-| Rodrigo CavanhaMan |
-| BEE 1042           |
-| Sort Simples       |
-*--------------------*/
+/*
++--------------------+
+¦ Rodrigo CavanhaMan ¦
+¦        IFTM        ¦
+¦      BEE 1042      ¦
++--------------------+
+*/
 # -*- coding: utf-8 -*-
 
 A,B,C = map (int,input().split())

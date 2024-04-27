@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 2174           |
+| URI 2174           |
 | Colecao de Pomekon |
 *--------------------*/
 import java.util.Scanner;

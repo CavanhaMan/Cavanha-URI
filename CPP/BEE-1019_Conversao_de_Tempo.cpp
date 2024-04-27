@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1019           |
+| URI 1019           |
 | Conversao de Tempo |
 *--------------------*/
 #include<stdio.h>

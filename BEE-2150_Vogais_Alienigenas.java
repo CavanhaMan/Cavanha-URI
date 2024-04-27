@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 2150           |
+| URI 2150           |
 | Vogais Alienigenas |
 *--------------------*/
 import java.util.HashMap;

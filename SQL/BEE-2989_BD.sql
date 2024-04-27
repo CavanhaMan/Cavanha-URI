@@ -1,4 +1,4 @@
---- BEECROWD SQL
+--- URI Online Judge SQL
 --- Copyright URI Online Judge
 --- www.urionlinejudge.com.br
 --- Problem 2989

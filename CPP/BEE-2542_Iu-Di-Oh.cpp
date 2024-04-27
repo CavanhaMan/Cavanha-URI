@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 2542           |
+| URI 2542           |
 | Iu-Di-Oh!          |
 *--------------------*/
 #include<iostream>

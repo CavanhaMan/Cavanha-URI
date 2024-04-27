@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1805           |
+| URI 1805           |
 | Soma Natural       |
 *--------------------*/
 import java.util.Locale;

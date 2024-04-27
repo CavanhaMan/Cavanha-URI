@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1234           |
+| URI 1234           |
 | Sentenca Dancante  |
 *--------------------*/
 import java.util.Locale;

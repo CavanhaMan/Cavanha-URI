@@ -3,5 +3,7 @@
 | BEE 2622           |
 | Pessoas Jurídicas  |
 *--------------------*/
-select c.name 
-from customers c inner join legal_person l on c.id = l.id_customers
+select c.name
+    
+from customers c
+    inner join legal_person l on c.id = l.id_customers

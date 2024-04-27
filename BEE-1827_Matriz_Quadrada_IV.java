@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1827           |
+| URI 1827           |
 | Matriz Quadrada IV |
 *--------------------*/
 import java.util.Locale;

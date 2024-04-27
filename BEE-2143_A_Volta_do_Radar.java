@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 2143           |
-| A Vota do Radas    |
-*--------------------*/
+|        IFTM        |
+|      BEE 2143      |
++--------------------+
+*/
 import java.util.Locale;
 import java.util.Scanner;
 

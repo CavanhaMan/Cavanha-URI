@@ -1,6 +1,6 @@
 /*-----------------------*
 | Rodrigo CavanhaMan     |
-| BEE 1847               |
+| URI 1847               |
 | Bem-vindos ao Inverno! |
 *------------------------*/
 import java.util.Scanner;

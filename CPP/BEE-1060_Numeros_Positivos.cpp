@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1060           |
+| URI 1060           |
 | Numeros Positivos  |
 *--------------------*/
 #include<stdio.h>

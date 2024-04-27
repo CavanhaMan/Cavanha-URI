@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1043           |
+| URI 1043           |
 | Triangulo          |
 *--------------------*/
 #include<stdio.h>

@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1042           |
+| URI 1042           |
 | Sort Simples       |
 *--------------------*/
 #include<stdio.h>

@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 2344           |
+| URI 2344           |
 | Notad da Prova     |
 *--------------------*/
 import java.util.Locale;

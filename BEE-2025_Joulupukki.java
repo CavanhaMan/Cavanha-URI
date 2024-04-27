@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 2025           |
+| URI 2025           |
 | Joulupukki         |
 *--------------------*/
 import java.util.Locale;

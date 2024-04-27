@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1828           |
+| URI 1828           |
 | Bazinga!           |
 *--------------------*/
 import java.util.Scanner;

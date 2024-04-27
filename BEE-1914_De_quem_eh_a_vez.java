@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1914           |
+| URI 1914           |
 | De quem é a vez?   |
 *--------------------*/
 import java.util.Scanner;

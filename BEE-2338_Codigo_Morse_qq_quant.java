@@ -1,8 +1,10 @@
-/*---------------------------------*
-| Rodrigo CavanhaMan               |
-| BEE 2338                         |
-| Codigo Morse qualquer quantidade |
-*----------------------------------*/
+/*
++--------------------+
+| Rodrigo CavanhaMan |
+|        IFTM        |
+|      BEE 2338      |
++--------------------+
+*/
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;

@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1078           |
+| URI 1078           |
 | Tabuada            |
 *--------------------*/
 #include<stdio.h>

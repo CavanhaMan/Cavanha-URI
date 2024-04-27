@@ -1,8 +1,10 @@
-/*-------------------*
-| Rodrigo CavanhaMan |
-| BEE 1008           |
-| Salario            |
-*--------------------*/
+/*
++--------------------+
+¦ Rodrigo CavanhaMan ¦
+¦        IFTM        ¦
+¦      BEE 1008      ¦
++--------------------+
+*/
 NUM=int(input())
 HORA=int(input())
 SAL=float(input())

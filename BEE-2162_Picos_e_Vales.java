@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 2162           |
-| Picos e Vales      |
-*--------------------*/
+|        IFTM        |
+|      BEE 2162      |
++--------------------+
+*/
 import java.util.Scanner;
 
 public class Main {

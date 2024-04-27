@@ -1,6 +1,6 @@
 /*-----------------------*
 | Rodrigo CavanhaMan     |
-| BEE 2600               |
+| URI 2600               |
 | Tustin e Seu Dado Novo |
 *------------------------*/
 import java.util.Scanner;

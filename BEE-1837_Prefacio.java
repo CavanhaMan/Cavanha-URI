@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1837           |
+| URI 1837           |
 | Prefacio           |
 *--------------------*/
 import java.util.Locale;

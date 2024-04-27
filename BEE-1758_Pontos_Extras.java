@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 1758           |
-| Pontos Extras      |
-*--------------------*/
+|        IFTM        |
+|      BEE 1758      |
++--------------------+
+*/
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.Closeable;

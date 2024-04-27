@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 1069           |
-| Diamantes e Areia  |
-*--------------------*/
+|        IFTM        |
+|      BEE 1069      |
++--------------------+
+*/
 import java.util.Scanner;
 
 public class Main {

@@ -1,8 +1,10 @@
-/*----------------------*
-| Rodrigo CavanhaMan    |
-| BEE  2544             |
-| Kage Bunshin no Jutsu |
-*-----------------------*/
+/*
++--------------------+
+| Rodrigo CavanhaMan |
+|        IFTM        |
+|      BEE 2544      |
++--------------------+
+*/
 import java.util.Scanner;
 
 public class Main {

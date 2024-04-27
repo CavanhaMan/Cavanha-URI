@@ -1,8 +1,10 @@
-/*-------------------*
-| Rodrigo CavanhaMan |
-| BEE 2334           |
-| Patinho            |
-*--------------------*/
+/*
++--------------------+
+¦ Rodrigo CavanhaMan ¦
+¦        IFTM        ¦
+¦      BEE 2334      ¦
++--------------------+
+*/
 #include <stdio.h>
 using namespace std;
 int main(){

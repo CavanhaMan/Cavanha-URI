@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 1929           |
+| URI 1929           |
 | Triângulo          |
 *--------------------*/
 import java.util.Scanner;

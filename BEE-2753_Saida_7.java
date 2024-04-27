@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 2753           |
+| URI 2753           |
 | Saida 7            |
 *--------------------*/
 public class Main {

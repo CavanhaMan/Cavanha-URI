@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| BEE 2554           |
+| URI 2554           |
 | Pizza Antes de BH  |
 *--------------------*/
 import java.util.Scanner;

@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 2483           |
-| Feliz Nataaal      |
-*--------------------*/
+|        IFTM        |
+|      BEE 2483      |
++--------------------+
+*/
 import java.util.Scanner;
 
 public class Main {

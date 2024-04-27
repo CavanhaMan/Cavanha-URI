@@ -1,9 +1,11 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 2338           |
-| Codigo Morse a     |
-| (Enigma Maratona)  |
-*--------------------*/
+|        IFTM        |
+|      Maratona      |
+|       Enigma       |
++--------------------+
+*/
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;

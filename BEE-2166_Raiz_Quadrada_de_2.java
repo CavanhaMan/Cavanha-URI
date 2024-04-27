@@ -1,8 +1,10 @@
-/*-------------------*
+/*
++--------------------+
 | Rodrigo CavanhaMan |
-| BEE 2166           |
-| Raiz Quadrada de 2 |
-*--------------------*/
+|        IFTM        |
+|      BEE 2166      |
++--------------------+
+*/
 import java.util.Locale;
 import java.util.Scanner;
 

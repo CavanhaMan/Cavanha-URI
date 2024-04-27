@@ -1,6 +1,6 @@
 /*-----------------------*
 | Rodrigo CavanhaMan     |
-| BEE 1921               |
+| URI 1921               |
 | Guilherme e Suas Pipas |
 *------------------------*/
 import java.util.Scanner;

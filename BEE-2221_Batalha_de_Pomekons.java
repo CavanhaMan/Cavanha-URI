@@ -1,8 +1,10 @@
-/*--------------------*
-| Rodrigo CavanhaMan  |
-| BEE 2221            |
-| Batalha de Pomekons |
-*---------------------*/
+/*
++--------------------+
+| Rodrigo CavanhaMan |
+|        IFTM        |
+|      BEE 2221      |
++--------------------+
+*/
 import java.util.Scanner;
 
 public class Main {

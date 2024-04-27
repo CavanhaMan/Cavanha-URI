@@ -1,6 +1,6 @@
 /*-------------------------------*
 | Rodrigo CavanhaMan             |
-| BEE 2028                       |
+| URI 2028                       |
 | Sequencia de Sequencia tLimite |
 *--------------------------------*/
 import java.util.Scanner;

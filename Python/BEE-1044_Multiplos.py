@@ -1,8 +1,10 @@
-/*-------------------*
-| Rodrigo CavanhaMan |
-| BEE 1003           |
-| Multiplos          |
-*--------------------*/
+/*
++--------------------+
+¦ Rodrigo CavanhaMan ¦
+¦        IFTM        ¦
+¦      BEE 1003      ¦
++--------------------+
+*/
 # -*- coding: utf-8 -*-
 
 A,B = map(int,input().split())

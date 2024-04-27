@@ -1,0 +1,100 @@
+
+1180	
+1181	
+1182	
+1183	
+1184	
+1185	
+1186	...
+1187	
+1188	
+1188	
+1189	
+1190	
+1214	
+1222	
+1234	
+1244	
+1245	Botas Perdidas
+1246	Estacionamento
+1251	Diga-me a Frequência
+1253	Cifra de César
+1256	Tabelas Hash
+1259	Pares e Ímpares
+1260	Espécies de Madeira
+1435	Matriz Quadrada I
+1467	Zerinho ou Um
+1478	Matriz Quadrada II
+1533	Detetive Watson
+1534	Matriz 123
+1564	Vai Ter Copa?
+1566	Altura
+1566	Altura
+1581	Conversa Internacional
+1607	Avance as Letras
+1619	Diferença entre Datas
+1758	Pontos Extras
+1759	Ho Ho Ho
+1871	Zero vale Zero
+1873	Pedra-papel-tesoura-lagar...
+1916	Banco de Horas de Jaiminho
+1957	Converter para Hexadecimal
+1984	O Enigma do Pronalândia
+1985	MacPRONALTS
+2003	Domingo de Manhã
+2006	Identificando o Chá
+2028	Sequência de Sequência
+2029	Reservatório de Mel
+2031	Pedra, Papel, Ataque Aéreo
+2057	Fuso Horário
+2059	Ímpar, Par ou Roubo
+2060	Desafio de Bino
+2061	As Abas de Péricles
+2062	OBI BEE
+2126	Procurando Subsequências
+2139	Natal de Pedrinho
+2140	Duas Notas
+2143	A Volta do Radar
+2146	Senha
+2147	Galopeira
+2150	Vogais Alienígenas
+2152	Pepe, Já Tirei a Vela!
+2159	Número Aproximado de Primos
+2160	Nome no Formulário
+2161	Raiz Quadrada de 10
+2162	Picos e Vales
+2163	O Despertar da Força
+2164	Fibonacci Rápido
+2165	Tuitando
+2166	Raiz Quadrada de 2
+2167	Falha do Motor
+2168	Crepúsculo em Portland
+2172	Evento
+2174	Coleção de Pomekon
+2176	Paridade
+2203	Tempestade de Corvos
+2221	Batalha de Pomekons
+2234	Cachorros-Quentes
+2234	Cachorros-Quentes
+2235	Andando no Tempo
+2235	Andando no Tempo
+2242	Huaauhahhuahau
+2242	Huaauhahhuahau
+2248	Estágio
+2253	Validador de Senhas
+2310	Voleibol
+2311	Saltos Ornamentais
+2313	Qual Triângulo
+2327	Quadrados
+2334	Patinhos
+2338	Morse
+2483	Feliz Nataaal!
+2486	C Mais ou Menos?
+2510	Batmain
+2533	Estágio
+2534	Exame Geral
+2540	Impeachment do Líder
+2543	Jogatina UFPR
+2544	Kage Bunshin no Jutsu
+2547	Montanha-Russa
+2633	Churras no YBEE

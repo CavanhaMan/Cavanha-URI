@@ -1,8 +1,10 @@
-/*---------------------*
-| Rodrigo CavanhaMan   |
-| BEE 2203             |
-| Tempestade de Corvos |
-*----------------------*/
+/*
++--------------------+
+| Rodrigo CavanhaMan |
+|        IFTM        |
+|      BEE 2203      |
++--------------------+
+*/
 import java.util.Locale;
 import java.util.Scanner;
 
