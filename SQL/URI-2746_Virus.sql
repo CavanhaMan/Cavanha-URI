@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2746           |
+| BEE 2746           |
 | Virus              |
 *--------------------*
 substituir todo caractere 'H1' ( Hemaglutinina ) por 'X' ( Xenomorphina ).

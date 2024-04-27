@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2741           |
+| BEE 2741           |
 | Nota dos Alunos    |
 *--------------------*
 mostrar a frase 'Approved: ' junto com o nome do aluno

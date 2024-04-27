@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2739           |
+| BEE 2739           |
 | Dia de Pagamento   |
 *--------------------*
 nomes e o dia do mês que cada cliente deve pagar sua parcela.

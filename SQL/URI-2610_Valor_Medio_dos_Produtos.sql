@@ -1,6 +1,6 @@
 /*-------------------------*
 | Rodrigo CavanhaMan       |
-| URI 2610                 |
+| BEE 2610                 |
 | Valor Médio dos Produtos |
 *--------------------------*
 calcular e exibir o valor médio do preço dos produtos.

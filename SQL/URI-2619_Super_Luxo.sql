@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2619           |
+| BEE 2619           |
 | Super Luxo         |
 *--------------------*
 nome dos produtos, nome dos fornecedores e o preço

@@ -1,6 +1,6 @@
 /*-------------------------------*
 | Rodrigo CavanhaMan             |
-| URI 2623                       |
+| BEE 2623                       |
 | Categorias com Vários Produtos |
 *--------------------------------*
 nome do produto e o nome da categoria

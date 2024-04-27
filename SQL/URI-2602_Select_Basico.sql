@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2602           |
+| BEE 2602           |
 | Select Basico      |
 *--------------------*
 Exibir o nome de todos os clientes cujo estado seja ‘RS’.

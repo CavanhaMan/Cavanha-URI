@@ -1,6 +1,6 @@
 *--------------------*
 | Rodrigo CavanhaMan |
-| URI 2622           |
+| BEE 2622           |
 | Pessoas Jurídicas  |
 *--------------------*/
 select c.name 

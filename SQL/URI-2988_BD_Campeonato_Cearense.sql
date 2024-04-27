@@ -1,6 +1,6 @@
 /*--------------------*
 | Rodrigo CavanhaMan  |
-| URI 2988            |
+| BEE 2988            |
 | Campeonato Cearense |
 *---------------------*
 Mostre uma tabela com as seguintes colunas: 

@@ -1,6 +1,6 @@
 /*--------------------------*
 | Rodrigo CavanhaMan        |
-| URI 2621                  |
+| BEE 2621                  |
 | Quantidades entre 10 e 20 |
 *---------------------------*
 Exiba o nome dos produtos 

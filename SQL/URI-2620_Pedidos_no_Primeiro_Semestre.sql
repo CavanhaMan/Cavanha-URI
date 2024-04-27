@@ -1,6 +1,6 @@
 /*-----------------------------*
 | Rodrigo CavanhaMan           |
-| URI 2620                     |
+| BEE 2620                     |
 | Pedidos no Primeiro Semestre |
 *------------------------------*
 display the customers name and order number

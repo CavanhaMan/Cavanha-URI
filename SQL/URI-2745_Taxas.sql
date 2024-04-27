@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2745           |
+| BEE 2745           |
 | Taxas              |
 *--------------------*
 nome da pessoa e o valor que ela deve pagar para o governo com a precisão de duas casas decimais.

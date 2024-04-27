@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2613           |
+| BEE 2613           |
 | Filmes em Promoção |
 *--------------------*
 ID e o nome dos filmes cujo preço for menor que 2.00.

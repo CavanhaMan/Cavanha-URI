@@ -1,6 +1,6 @@
 /*--------------------------*
 | Rodrigo CavanhaMan        |
-| URI 2605                  |
+| BEE 2605                  |
 | Representantes Executivos |
 *---------------------------*
 nomes dos produtos e dos fornecedores cujo código da categoria é 6.

@@ -1,6 +1,6 @@
 /*------------------------*
 | Rodrigo CavanhaMan      |
-| URI 2609                |
+| BEE 2609                |
 | Produtos por Categorias |
 *-------------------------*
 nome e a quantidade de produtos de cada uma categoria.

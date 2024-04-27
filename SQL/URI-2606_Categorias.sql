@@ -1,6 +1,6 @@
 /*-------------------*
 | Rodrigo CavanhaMan |
-| URI 2606           |
+| BEE 2606           |
 | Categorias         |
 *--------------------*
 código e o nome dos produtos, cuja categoria inicie com 'super'.

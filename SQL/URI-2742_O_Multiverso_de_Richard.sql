@@ -1,6 +1,6 @@
 /*----------------------*
 | Rodrigo CavanhaMan    |
-| URI 2742              |
+| BEE 2742              |
 | Multiverso de Richard |
 *-----------------------*
 selecionar todos os possíveis Richards das dimensões C875 e C774,
