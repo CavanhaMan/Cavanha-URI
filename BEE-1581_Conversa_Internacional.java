@@ -1,10 +1,8 @@
-/*
-+--------------------+
+/*-------------------*
 | Rodrigo CavanhaMan |
 |        IFTM        |
 |      BEE 1581      |
-+--------------------+
-*/
+*--------------------*/
 import java.util.Scanner;
 
 public class Main {

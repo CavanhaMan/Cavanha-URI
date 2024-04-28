@@ -1,10 +1,8 @@
-/*
-+--------------------+
+/*-------------------*
 | Rodrigo CavanhaMan |
 |        IFTM        |
 |      BEE 1759      |
-+--------------------+
-*/
+*--------------------*/
 import java.util.Locale;
 import java.util.Scanner;
 

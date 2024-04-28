@@ -1,8 +1,8 @@
-/*--------------------------------------*
-| Rodrigo CavanhaMan                    |
-| URI 2766                              |
-| Entrada e Saída Lendo e Pulando Nomes |
-*---------------------------------------*/
+/*------------------------------------*
+|Rodrigo CavanhaMan                   |
+|URI 2766                             |
+|Entrada e Saída Lendo e Pulando Nomes|
+*-------------------------------------*/
 import java.util.Scanner;
 import java.util.Locale;
 public class Main {

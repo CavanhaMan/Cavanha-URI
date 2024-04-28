@@ -1,10 +1,8 @@
-/*
-+--------------------+
+/*-------------------*
 | Rodrigo CavanhaMan |
 |        IFTM        |
 |      BEE 2534      |
-+--------------------+
-*/
+*--------------------*/
 //import java.util.Locale;
 import java.util.ArrayList;
 import java.util.Collections;

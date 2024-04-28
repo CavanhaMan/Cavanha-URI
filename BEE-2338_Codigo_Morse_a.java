@@ -1,11 +1,9 @@
-/*
-+--------------------+
+/*-------------------*
 | Rodrigo CavanhaMan |
 |        IFTM        |
 |      Maratona      |
 |       Enigma       |
-+--------------------+
-*/
+*--------------------*/
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;

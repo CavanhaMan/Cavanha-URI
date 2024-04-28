@@ -1,10 +1,8 @@
-/*
-+-------------------+
+/*------------------*
 |Rodrigo CavanhaMan |
 |URI 2779           |
 |Album da Copa      |
-+-------------------+
-*/
+*-------------------*/
 import java.util.Locale;
 import java.util.Scanner;
 import java.util.LinkedHashSet;

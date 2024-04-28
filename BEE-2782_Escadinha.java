@@ -1,10 +1,8 @@
-/*
-+------------------+
+/*-----------------*
 |Rodrigo CavanhaMan|
 |URI 2782          |
 |Escadinha         |
-+------------------+
-*/
+*------------------*/
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

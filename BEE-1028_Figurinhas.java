@@ -1,10 +1,8 @@
-/*
-+--------------------+
+/*-------------------*
 | Rodrigo CavanhaMan |
 |      URI 1028      |
 |     Figurinhas     |
-+--------------------+
-*/
+*--------------------*/
 import java.util.Scanner;
 
 public class Main {

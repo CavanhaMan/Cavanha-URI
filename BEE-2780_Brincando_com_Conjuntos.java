@@ -1,10 +1,8 @@
-/*
-+-----------------------+
+/*----------------------*
 |Rodrigo CavanhaMan     |
 |URI 2780               |
 |Brincando com Conjuntos|
-+-----------------------+
-*/
+*-----------------------*/
 import java.util.Scanner;
 import java.util.Locale;
 public class Main {

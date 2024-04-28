@@ -1,10 +1,8 @@
-/*
-+--------------------+
+/*-------------------*
 | Rodrigo CavanhaMan |
 |      BEE 1251      |
 |Diga-me a Frequência|
-+--------------------+
-*/
+*--------------------*/
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;

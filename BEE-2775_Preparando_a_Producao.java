@@ -1,10 +1,8 @@
-/*
-+---------------------+
+/*--------------------*
 |Rodrigo CavanhaMan   |
 |URI 2775             |
 |Preparando a Producao|
-+---------------------+
-*/
+*---------------------*/
 import java.util.Locale;
 import java.util.Scanner;
 public class Main {

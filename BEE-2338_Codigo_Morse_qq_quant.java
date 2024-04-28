@@ -1,10 +1,8 @@
-/*
-+--------------------+
+/*-------------------*
 | Rodrigo CavanhaMan |
 |        IFTM        |
 |      BEE 2338      |
-+--------------------+
-*/
+*--------------------*/
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;

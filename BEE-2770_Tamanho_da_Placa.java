@@ -1,10 +1,8 @@
-/*
-+-------------------+
+/*------------------*
 |Rodrigo CavanhaMan |
 |URI 2770           |
 |Tamanho da Placa   |
-+-------------------+
-*/
+*-------------------*/
 import java.util.Scanner;
 public class Main {
 	public static void main(String[] args) {

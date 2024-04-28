@@ -1,11 +1,9 @@
-/*
-+--------------------+
+/*-------------------*
 | Rodrigo CavanhaMan |
 |        IFTM        |
 |      Maratona      |
 |  Quadrado  Mágico  |
-+--------------------+
-*/
+*--------------------*/
 import java.util.Scanner;
 
 public class Main {

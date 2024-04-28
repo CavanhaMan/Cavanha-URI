@@ -1,10 +1,8 @@
-/*
-+--------------------+
+/*-------------------*
 | Rodrigo CavanhaMan |
 |  Churras no YBEE   |
 |      BEE 2633      |
-+--------------------+
-*/
+*--------------------*/
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;

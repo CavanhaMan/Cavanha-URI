@@ -1,10 +1,8 @@
-/*
-+-------------------+
+/*------------------*
 |Rodrigo CavanhaMan |
 |URI 2774           |
 |Precisao do Sensor |
-+-------------------+
-*/
+*-------------------*/
 import java.util.Locale;
 import java.util.Scanner;
 public class Main {
